@@ -1,0 +1,8 @@
+frmLearn2 = 80, 59, 1369, 693, , 26, 27, 1315, 660, C
+DBContext = 52, 52, 1341, 686, 
+PositionDTO = 78, 78, 1367, 712, 
+HuEmployeeDTO = 104, 104, 1393, 738, 
+HuSalaryPeriodDTO = 182, 182, 1471, 816, 
+frmPageEdit = 191, 66, 1480, 700, , 26, 26, 1315, 660, C
+IHuEmployeeRepository = 78, 78, 1367, 712, C
+HuEmployeeRepository = 182, 182, 1471, 816, 
